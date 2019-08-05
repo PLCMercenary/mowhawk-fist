@@ -60,7 +60,7 @@ The Mercenaries are also easily reached on LinkedIn
 
 * Posts
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: blog
+  :EXPORT_HUGO_SECTION: post 
   :END:
 ** Topic                                                               :@topic:
 *** DONE test Post great title                    :post:tags:automation:great:

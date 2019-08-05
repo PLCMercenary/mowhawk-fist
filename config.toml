@@ -12,12 +12,12 @@ theme = "hugo-minimalist-theme"
 
 [params]
     site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_description = "Automation Mercs"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_title = "Automation Mercs"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
