@@ -9,10 +9,10 @@
   :PROPERTIES:
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
   :EXPORT_HUGO_MENU: :menu main
-  :EXPORT_HUGO_SECTION: pages
+  :EXPORT_HUGO_SECTION: 
   :EXPORT_HUGO_WEIGHT: auto
   :END:
-** DONE About Us                                                           
+** DONE About Us                                                         :post:
 CLOSED: [2019-08-01 Thu 04:32]
    :PROPERTIES:
    :EXPORT_FILE_NAME: About Us
