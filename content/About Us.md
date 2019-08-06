@@ -16,8 +16,8 @@ noread = true
   identifier = "about-us"
 +++
 
-Automation Mercs is an information sharing site started by **Sean "Scooter"
-Terrell** an automation geek that is obsessed with PLC Controls and Automating
+Automation Mercs is an information sharing site started by **Sean 'Scooter' Terrell**
+  an automation geek that is obsessed with PLC Controls and Automating
 everything possible
 
 **Justin Dean** is a lifelong programming expert with experience in all types of
@@ -35,3 +35,5 @@ Please Email
 
 Most of the inspiration these articles & videos come from the automation
 community on linkedin and will also be linked there as well.
+
+
