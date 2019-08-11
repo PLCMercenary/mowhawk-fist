@@ -3,16 +3,16 @@
 #+HUGO_BASE_DIR: .
 #+HUGO_AUTO_SET_LASTMOD: t
 #+seq_todo: TODO DRAFT DONE
-
-
+#+Tags: Post(p) IIoT(i) sensors(s) Hardware(h) Programming(P) Protocols(c) automation(a) Scada(s) DN(d) TODO(T) Noexport(n)
 * Pages
   :PROPERTIES:
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
   :EXPORT_HUGO_MENU: :menu main
   :EXPORT_HUGO_SECTION: 
   :EXPORT_HUGO_WEIGHT: auto
+  :VISIBILITY: children
   :END:
-** DONE About Us                                                         :post:
+** DONE About Us
 CLOSED: [2019-08-01 Thu 04:32]
    :PROPERTIES:
    :EXPORT_FILE_NAME: About Us
@@ -37,8 +37,7 @@ Please Email
 
 Most of the inspiration these articles & videos come from the automation
 community on linkedin and will also be linked there as well. 
-** DONE Contact                                                            :DN:
-CLOSED: [2019-08-01 Thu 04:55]
+** Contact
    :PROPERTIES:
    :CUSTOM_ID: h:beb0969b-5168-490b-95ef-af55818703e5
    :CREATED:  [2019-07-28 Sun 20:35]
@@ -58,70 +57,34 @@ The Mercenaries are also easily reached on LinkedIn
 
 	 
 
-* Posts
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: post 
-  :END:
-** Topic                                                               :@topic:
-*** DONE test Post great title                    :post:tags:automation:great:
-    CLOSED: [2019-07-28 Sun 20:43]
-    :PROPERTIES:
-    :EXPORT_DATE: 
-    :EXPORT_FILE_NAME: post-title-in-slug-form
-    :END:
-
-    Content this is the good stuff
-    
-    More Content
-
-    | how    | about   | a   | table |
-    |--------+---------+-----+-------|
-    | with a | Headder | bar | on it |
-    |        |         |     |       |
-    |        |         |     |       |
-
-    #+BEGIN_SRC bash -l 7 :hl_lines 8
-      echo 'Some source code content'
-      echo 'This line will be highlighted'
-      echo "This one won't"
-    #+END_SRC
-
-**** Post Sub-Heading
-     This is another section within the post. 
-**** this part is important
-     :PROPERTIES:
-     :CUSTOM_ID: h:152672ee-654e-4e34-91c3-dfabf2d1d064
-     :CREATED:  [2019-07-28 Sun 20:44]
-     :END:
-
-*** DONE Draft Post Title                                                 :DN:
-CLOSED: [2019-08-01 Thu 13:03]
-    :PROPERTIES:
-    :EXPORT_FILE_NAME: draft-post-title
-    :END:
-
-    This article *will* be exported but will be marked ~draft = true~ in the front matter.
-*** TODO Image test                                                     :todo:
+* Post
 :PROPERTIES:
-:EXPORT_FILE_NAME: image-test
+:EXPORT_HUGO_SECTION: post 
+:VISIBILITY: children 
 :END:
-testing inserting a GIF image 
+** TODO MQTT: I heard its over-rated 
+:PROPERTIES:
+:EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
+:END:
+*Appaently the first rule of MQTT is we dont talk about MQTT* 
 
-*IEC61131* var and coding area
+Sure, its all over LinkedIN. Its the first thing anyone mentions
+in a conversation about IoT or the future of automation. But what 
+the hell is it? 
+  
+** TODO PLC Programming                                             :@PLC:todo:
+* Blog Ideas                                                          :Noexport:
+:PROPERTIES:
+:ID:       C41B5F9F-B8EB-460B-87FF-6B647CB72752
+:VISIBILITY: children
+:END:
+** Interview with mama - IVF and Barbados
+   - 
 
-#+name: Cool GIF
-#+caption: This is a cool GIF i made
-
-[[/Users/twinflame_automation/Dropbox/orgfiles/images-training/animations/expressions-operators-operands.gif]]
-
-
-
-** TODO Blog Ideas                                                       
 
 
 * Footnotes 
-* COMMENT Local Variables                                           :ARCHIVE:
-# Local Variables:
+* COMMENT Local Variables                                           # Local Variables:
 # eval: (org-hugo-auto-export-mode) 
 # eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
 # eval: (auto-fill-mode 1)
