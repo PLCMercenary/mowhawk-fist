@@ -2,7 +2,7 @@
 title = "MQTT: I heard its over-rated"
 author = ["Sean Terrell"]
 date = 2020-06-29T07:32:00-05:00
-lastmod = 2020-06-29T14:14:51-05:00
+lastmod = 2020-06-29T14:29:45-05:00
 tags = ["SCADA", "IIoT", "Comms", "network"]
 draft = false
 +++
