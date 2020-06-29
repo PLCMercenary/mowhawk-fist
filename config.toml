@@ -1,71 +1,48 @@
-baseurl = "https://www.automationmerc.com/"
+baseurl      = "https://www.automationmercs.com"
 languageCode = "en-us"
-title = "Automation Mercenaries"
-theme = "blackburn"
-author = "Sean Terrell"
-copyright = "&copy; 2019. All rights reserved."
-canonifyurls = true
-paginate = 10
+title        = "Sean Terrell"
+subtitle     = "SCADA, PLC, Automaiton, IIoT, Docker, Kubernetes"
+
+canonifyURLs    = true
+disqusShortname = "plcmercenary"
+uglyurls        = false
+
 pygmentsCodeFences = true
 
-[indexes]
-  tag = "tags"
-  topic = "topics"
-
 [params]
-  # Shown in the home page
-  subtitle = "Warriors advice for taming PLC's and Control systems"
-  brand = "PLC Mercs"
-  googleAnalytics = "Your Google Analytics tracking ID"
-  #disqus = "Your Disqus shortname"
-  # CSS name for highlight.js
-  highlightjs = "android studio"
-  dateFormat = "2006 Jan 02, 15:04"
+    author         = "Sean Terrell"
+    authorlinkedin = "https://www.linkedin.com/in/seanterrell"
+#    authortwitter  = "shanesveller"
+    copyright      = "&copy; 2020 Sean Terrell"
+    description    = "SCADA Guru and Automation Warrior"
+#    gaid           = "UA-2369454-1"
+    sidebartitle   = "Sean Terrell"
+    sidebartagline = "SCADA, PLC, Automaiton, IIoT, Docker, Kubernetes"
 
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
-    weight = 1
-    identifier = "home"
-    url = "/"
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 2
-    identifier = "post"
-    url = "/post/"
-  [[menu.main]]
-    name = "Tags"
-    pre = "<i class='fa fa-tag fa-fw'></i>"
-    weight = 3
-    identifier = "Tag"
-    url = "/tags/"
-  [[menu.main]]
-    name = "Topics"
-    pre = "<i class='fa fa-list-alt fa-fw'></i>"
-    weight = 4
-    identifier = "topic"
-    url = "/topic/"
-  [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 5
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 6
-    url = "/contact/"
+[permalinks]
+    blog = "/blog/:year/:month/:day/:title"
 
-[social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
-  github = "yoshiharuyamashita"
-  stackoverflow = "*"
-  linkedin = "*"
+[[menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+
+
+[[menu.social]]
+    pre        = "<i class ='fa fa-github'></i>"
+    url        = "https://github.com/plcmercenary"
+    identifier = "github"
+
+[[menu.social]]
+    pre        = "<i class ='fa fa-key'></i>"
+    url        = "https://keybase.io/plcmercenary"
+    identifier = "keybase"
+
+[[menu.social]]
+    pre        = "<i class ='fa fa-linkedin'></i>"
+    url        = "https://www.linkedin.com/in/seanterrell"
+    identifier = "linkedin"
+
+[[menu.social]]
+    pre        = "<i class ='fa fa-parler'></i>"
+    url        = "http://www.parler.com/plcmercenary"
+    identifier = "parler"
