@@ -62,7 +62,7 @@ The Mercenaries are also easily reached on LinkedIn
 :EXPORT_HUGO_SECTION: post 
 :VISIBILITY: children 
 :END:
-** MQTT                                                              :MQTT:SCADA:Industry 4.0:
+** MQTT                                                              :@MQTT:@SCADA:@Industry_4.0:
 :PROPERTIES:
 :ID:       9e986908-1ded-427e-b34a-203d7cc2086e
 :CREATED:  [2020-06-29 Mon 13:27]
