@@ -1,8 +1,9 @@
 +++
 title = "MQTT: I heard its over-rated"
 author = ["Sean Terrell"]
-lastmod = 2019-08-07T02:05:16-05:00
-draft = true
+date = 2020-06-29T07:32:00-05:00
+lastmod = 2020-06-29T07:34:29-05:00
+draft = false
 +++
 
 **Appaently the first rule of MQTT is we dont talk about MQTT**
