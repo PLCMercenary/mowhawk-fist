@@ -62,7 +62,8 @@ The Mercenaries are also easily reached on LinkedIn
 :EXPORT_HUGO_SECTION: post 
 :VISIBILITY: children 
 :END:
-** TODO MQTT: I heard its over-rated 
+** DONE MQTT: I heard its over-rated
+CLOSED: [2020-06-29 Mon 07:32]
 :PROPERTIES:
 :EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
 :END:
