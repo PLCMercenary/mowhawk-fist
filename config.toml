@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Automation Mercenaries"
 theme = "blackburn"
 author = "Sean Terrell"
-copyright = "&copy; 2019. All rights reserved."
+copyright = "&copy; 2019. Automation Mercs All rights reserved."
 canonifyurls = true
 paginate = 10
 pygmentsCodeFences = true
@@ -63,9 +63,11 @@ pygmentsCodeFences = true
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
-  github = "yoshiharuyamashita"
-  stackoverflow = "*"
-  linkedin = "*"
+#  twitter = "*"
+ # facebook = "*"
+#  instagram = "*"
+  github = "plcmercenary"
+ # stackoverflow = "*"
+  linkedin = "Sean Terrell"
+  parler = "plcmercenary"
+  youtube = "automationmercenaries"
