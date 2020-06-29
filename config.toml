@@ -34,7 +34,7 @@ pygmentsCodeFences = true
     name = "Mercs Resume"
     pre = "<i class='fas fa-satellite'></i>"
     weight = 2
-    identifier = "Resume"
+    identifier = "mercs-resume"
     url = "/Mercs Resume/"
   [[menu.main]]
     name = "Posts"
