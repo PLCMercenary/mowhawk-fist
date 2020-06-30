@@ -1,8 +1,8 @@
 +++
-title = "Resume"
+title = "Mercs Resume"
 author = ["Sean Terrell"]
-date = 2020-06-29T15:03:00-05:00
-lastmod = 2020-06-29T15:05:01-05:00
+date = 2020-06-30T03:09:00-05:00
+lastmod = 2020-06-30T10:11:39-05:00
 draft = false
 weight = 2003
 noauthor = true
@@ -13,15 +13,16 @@ noread = true
 sidemenu = true
 [menu.main]
   weight = 2003
-  identifier = "resume" 
+  identifier = "mercs-resume"
 +++
 
-
 **Sean Terrell**
+
 238 West Tours Rd, Elm Mott, TX, 76640
+
 337.522.9291
+
 [terrellsm@gmail](mailto:terrellsm@gmail.com)
-[plcmercenary@tuta.io](mailto:plcmercenary@tuta.io)
 
 _**Work History and Experience**_
 

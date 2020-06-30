@@ -7,9 +7,9 @@
 * Contents
   :PROPERTIES:
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true :sidemenu true
-  # :EXPORT_HUGO_MENU: :menu main
-  # :EXPORT_HUGO_SECTION:
-  # :EXPORT_HUGO_WEIGHT: auto
+  :EXPORT_HUGO_MENU: :menu main
+  :EXPORT_HUGO_SECTION:
+  :EXPORT_HUGO_WEIGHT: auto
   :VISIBILITY: children
   :END:
 ** DONE About Us
@@ -33,7 +33,7 @@ and guest articles or video series are highly welcomed
 
 Please Email 
 
- =Merc@automationmerc.com=
+ =PLCmercenary@tuta.io=
 
 Most of the inspiration these articles & videos come from the automation
 community on linkedin and will also be linked there as well. 
@@ -47,26 +47,31 @@ CLOSED: [2020-06-30 Tue 01:10]
 
 The Best way to contact someone is to email the 
 
- =Merc@AutomationMerc.com=
+ =PLCmercenary@tuta.io=
 
 The Mercenaries are also easily reached on LinkedIn 
 
 **Justin Dean** - SCADA Solution Magician [[https://www.linkedin.com/in/justin-dean-95532b18/][LinkedIN]]
                 
 **Scooter Terrell** - /the PLC Mercenary/, mostly breaks things, [[https://www.linkedin.com/in/sean-terrell-1837a312/][LinkedIN]]
-** DONE Resume
-CLOSED: [2020-06-30 Tue 01:40]
-   :PROPERTIES:
-   :ID:       fa7b4661-3b64-4a47-96c1-efddb6d5d3f1
-   :CREATED:  [2020-06-30 Tue 01:10]
-   :EXPORT_FILE_NAME: Resume
-   :END:
-
+** DONE Mercs Resume
+CLOSED: [2020-06-30 Tue 03:09]
+:PROPERTIES:
+:ID:       ddf455ad-7b78-42ce-8f72-e3833df979e5
+:CREATED:  [2020-06-30 Tue 03:07]
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true :sidemenu true
+:EXPORT_HUGO_MENU: :menu main
+:export_hugo_section:
+:export_hugo_weight: auto
+:EXPORT_FILE_NAME: MERCS-CV
+:END:
 *Sean Terrell*
+
 238 West Tours Rd, Elm Mott, TX, 76640
+
 337.522.9291
+
 [[mailto:terrellsm@gmail.com][terrellsm@gmail]]
-[[mailto:plcmercenary@tuta.io][plcmercenary@tuta.io]]
 
 /*Work History and Experience*/
 
