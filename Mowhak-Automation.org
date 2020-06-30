@@ -66,11 +66,8 @@ CLOSED: [2020-06-30 Tue 03:09]
 :EXPORT_FILE_NAME: MERCS-CV
 :END:
 *Sean Terrell*
-
 238 West Tours Rd, Elm Mott, TX, 76640
-
 337.522.9291
-
 [[mailto:terrellsm@gmail.com][terrellsm@gmail]]
 
 /*Work History and Experience*/
@@ -79,7 +76,7 @@ CLOSED: [2020-06-30 Tue 03:09]
 -   Multiple Positions and Roles filled since March 2019 Including:
   -   *SCADA Practice Lead and System Developer*
   -   *IIoT solution developer, IoT Strategy consultant.*
-  -   *Rockwell PLC Programing Lead, and OOIP Program developer.*
+  -   *Rockwell PLC Programing Lead, and OOIP Program developer.* \\
     /Duties, Tasks, and Accomplishments/
     -   Primary designer and POC, for NodeJS and Node-Red based SCADA
         system for very large customer. Acted as the designer and
@@ -103,7 +100,7 @@ CLOSED: [2020-06-30 Tue 03:09]
         completely automated sites for major water midstream customer
 
 *** *The Integration Group of Americas {TIGA}*, Lafayette LA
--   *Commissioning Engineer / Automation Technician* (Bakken), Sept 2017 -- May 2019
+-   *Commissioning Engineer / Automation Technician* (Bakken), Sept 2017 -- May 2019 \\
     /Duties, Tasks, and Accpmplishments/
     -   Supporting Statoil Bakken I&E Facilities and Midstream
         Facilities

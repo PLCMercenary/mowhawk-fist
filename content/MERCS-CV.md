@@ -2,7 +2,7 @@
 title = "Mercs Resume"
 author = ["Sean Terrell"]
 date = 2020-06-30T03:09:00-05:00
-lastmod = 2020-06-30T10:11:39-05:00
+lastmod = 2020-06-30T10:18:50-05:00
 draft = false
 weight = 2003
 noauthor = true
@@ -17,11 +17,8 @@ sidemenu = true
 +++
 
 **Sean Terrell**
-
 238 West Tours Rd, Elm Mott, TX, 76640
-
 337.522.9291
-
 [terrellsm@gmail](mailto:terrellsm@gmail.com)
 
 _**Work History and Experience**_
@@ -32,7 +29,7 @@ _**Work History and Experience**_
 -   Multiple Positions and Roles filled since March 2019 Including:
     -   **SCADA Practice Lead and System Developer**
     -   **IIoT solution developer, IoT Strategy consultant.**
-    -   **Rockwell PLC Programing Lead, and OOIP Program developer.**
+    -   **Rockwell PLC Programing Lead, and OOIP Program developer.** <br />
         _Duties, Tasks, and Accomplishments_
         -   Primary designer and POC, for NodeJS and Node-Red based SCADA
             system for very large customer. Acted as the designer and
@@ -58,7 +55,7 @@ _**Work History and Experience**_
 
 ## **The Integration Group of Americas {TIGA}**, Lafayette LA {#the-integration-group-of-americas-tiga-lafayette-la}
 
--   **Commissioning Engineer / Automation Technician** (Bakken), Sept 2017 -- May 2019
+-   **Commissioning Engineer / Automation Technician** (Bakken), Sept 2017 -- May 2019 <br />
     _Duties, Tasks, and Accpmplishments_
     -   Supporting Statoil Bakken I&E Facilities and Midstream
         Facilities
