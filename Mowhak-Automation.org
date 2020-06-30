@@ -63,6 +63,7 @@ CLOSED: [2020-06-30 Tue 03:09]
 :EXPORT_HUGO_MENU: :menu main
 :export_hugo_section:
 :export_hugo_weight: auto
+:export_hugo_pre: "<i class='fa fa-list fa-fw'></i>"
 :EXPORT_FILE_NAME: MERCS-CV
 :END:
 *Sean Terrell*

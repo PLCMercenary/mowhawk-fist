@@ -2,7 +2,7 @@
 title = "Mercs Resume"
 author = ["Sean Terrell"]
 date = 2020-06-30T03:09:00-05:00
-lastmod = 2020-06-30T10:18:50-05:00
+lastmod = 2020-06-30T10:44:32-05:00
 draft = false
 weight = 2003
 noauthor = true
@@ -13,6 +13,7 @@ noread = true
 sidemenu = true
 [menu.main]
   weight = 2003
+  pre = "<i class='fa fa-list fa-fw'></i>"
   identifier = "mercs-resume"
 +++
 
