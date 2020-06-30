@@ -31,39 +31,33 @@ pygmentsCodeFences = true
     identifier = "home"
     url = "/"
   [[menu.main]]
-    name = "Resume"
-    pre = "<i class='fas fa-satellite'></i>"
-    weight = 2
-    identifier = "resume"
-    url = "/resume/"
-  [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 3
+    weight = 2
     identifier = "post"
     url = "/post/"
   [[menu.main]]
     name = "Tags"
     pre = "<i class='fa fa-tag fa-fw'></i>"
-    weight = 4
+    weight = 3
     identifier = "Tag"
     url = "/tags/"
   [[menu.main]]
     name = "Topics"
     pre = "<i class='fa fa-list-alt fa-fw'></i>"
-    weight = 5
+    weight = 4
     identifier = "topic"
     url = "/topic/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 6
+    weight = 5
     identifier = "about"
     url = "/about/"
   [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 7
+    weight = 6
     url = "/contact/"
 
 [social]

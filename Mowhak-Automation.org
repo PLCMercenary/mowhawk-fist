@@ -54,7 +54,35 @@ The Mercenaries are also easily reached on LinkedIn
 **Justin Dean** - SCADA Solution Magician [[https://www.linkedin.com/in/justin-dean-95532b18/][LinkedIN]]
                 
 **Scooter Terrell** - /the PLC Mercenary/, mostly breaks things, [[https://www.linkedin.com/in/sean-terrell-1837a312/][LinkedIN]]
-** DONE Resume
+* Post
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post 
+:VISIBILITY: children 
+:END:
+** MQTT                                                              :@MQTT:@SCADA:@Industry_4.0:
+:PROPERTIES:
+:ID:       9e986908-1ded-427e-b34a-203d7cc2086e
+:CREATED:  [2020-06-29 Mon 13:27]
+:END:
+*** DONE MQTT: I heard its over-rated                               :SCADA:IIoT:Comms:network:
+CLOSED: [2020-06-29 Mon 07:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
+:END:
+*Appaently the first rule of MQTT is we dont talk about MQTT* 
+
+Sure, its all over LinkedIN. Its the first thing anyone mentions in a conversation about IoT or the future of automation. But what the hell is it?
+
+*Message Queing Telemetry Transport* - the words MQTT is supposed to represent dont mean a whole helluvlot to me. Messages are pretty standard communications between .. fucking anything. And Queing sounds like there is either a time slot to transmit which means asyncronus data out and that blows, or that the state of the connection can hold message delivery in a que.. and that would be ok.
+
+*MQ Telemetry Transport* Ok so we know that Message Queing is happening and *Telemetry* ok thats sensor data. Now we are getting into an automation monkey's wheel house. Telemetry almost always refers to sensors and devices sending reporting data. Often times Telemetry is commutated values packed into a very tiny message and booted out in a single frame called fire and forget... just hoping that the receiver catches the message. And of course transport means this data can be shipped on multiple network types as the transport layer abstracts from the actual transmission layer of most protocols.
+
+
+
+
+  
+** Merc CV                                                           :@resume:@opportunity:
+** DONE Resume                                                       :SCADA:COVID:Open2Opportunity:
 CLOSED: [2020-06-30 Tue 01:40]
    :PROPERTIES:
    :ID:       fa7b4661-3b64-4a47-96c1-efddb6d5d3f1
@@ -252,33 +280,6 @@ CLOSED: [2020-06-30 Tue 01:40]
 
 
 
-* Post
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: post 
-:VISIBILITY: children 
-:END:
-** MQTT                                                              :@MQTT:@SCADA:@Industry_4.0:
-:PROPERTIES:
-:ID:       9e986908-1ded-427e-b34a-203d7cc2086e
-:CREATED:  [2020-06-29 Mon 13:27]
-:END:
-*** DONE MQTT: I heard its over-rated                               :SCADA:IIoT:Comms:network:
-CLOSED: [2020-06-29 Mon 07:32]
-:PROPERTIES:
-:EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
-:END:
-*Appaently the first rule of MQTT is we dont talk about MQTT* 
-
-Sure, its all over LinkedIN. Its the first thing anyone mentions in a conversation about IoT or the future of automation. But what the hell is it?
-
-*Message Queing Telemetry Transport* - the words MQTT is supposed to represent dont mean a whole helluvlot to me. Messages are pretty standard communications between .. fucking anything. And Queing sounds like there is either a time slot to transmit which means asyncronus data out and that blows, or that the state of the connection can hold message delivery in a que.. and that would be ok.
-
-*MQ Telemetry Transport* Ok so we know that Message Queing is happening and *Telemetry* ok thats sensor data. Now we are getting into an automation monkey's wheel house. Telemetry almost always refers to sensors and devices sending reporting data. Often times Telemetry is commutated values packed into a very tiny message and booted out in a single frame called fire and forget... just hoping that the receiver catches the message. And of course transport means this data can be shipped on multiple network types as the transport layer abstracts from the actual transmission layer of most protocols.
-
-
-
-
-  
 ** TODO PLC Programming                                             :@PLC:todo:
 
 * Blog Ideas                                                          :Noexport:
