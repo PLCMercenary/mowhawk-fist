@@ -54,7 +54,7 @@ The Mercenaries are also easily reached on LinkedIn
 **Justin Dean** - SCADA Solution Magician [[https://www.linkedin.com/in/justin-dean-95532b18/][LinkedIN]]
                 
 **Scooter Terrell** - /the PLC Mercenary/, mostly breaks things, [[https://www.linkedin.com/in/sean-terrell-1837a312/][LinkedIN]]
-** DONE Resume                                                       :SCADA:COVID:Open2Opportunity:
+** DONE Resume
 CLOSED: [2020-06-30 Tue 01:40]
    :PROPERTIES:
    :ID:       fa7b4661-3b64-4a47-96c1-efddb6d5d3f1
