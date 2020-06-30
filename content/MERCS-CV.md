@@ -1,5 +1,5 @@
 +++
-title = "Mercs Resume"
+title = "Resume"
 author = ["Sean Terrell"]
 date = 2020-06-29T15:03:00-05:00
 lastmod = 2020-06-29T15:05:01-05:00
