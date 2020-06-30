@@ -11,9 +11,7 @@ nocomment = true
 nodate = true
 nopaging = true
 noread = true
-[menu.main]
-  weight = 2001
-  identifier = "about-us"
+sidemenu = true 
 +++
 
 Automation Mercs is an information sharing site started by **Sean 'Scooter' Terrell**
