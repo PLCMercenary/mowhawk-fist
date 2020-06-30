@@ -4,12 +4,12 @@
 #+HUGO_AUTO_SET_LASTMOD: t
 #+seq_todo: TODO DRAFT DONE
 #+Tags: Post(p) IIoT(i) sensors(s) Hardware(h) Programming(P) Protocols(c) automation(a) Scada(s) DN(d) TODO(T) Noexport(n)
-* Pages
-:PROPERTIES:
-  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
-  :EXPORT_HUGO_MENU: :menu main
-  :EXPORT_HUGO_SECTION: 
-  :EXPORT_HUGO_WEIGHT: auto
+* Contents
+  :PROPERTIES:
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true :sidemenu true
+  # :EXPORT_HUGO_MENU: :menu main
+  # :EXPORT_HUGO_SECTION:
+  # :EXPORT_HUGO_WEIGHT: auto
   :VISIBILITY: children
   :END:
 ** DONE About Us
@@ -54,34 +54,6 @@ The Mercenaries are also easily reached on LinkedIn
 **Justin Dean** - SCADA Solution Magician [[https://www.linkedin.com/in/justin-dean-95532b18/][LinkedIN]]
                 
 **Scooter Terrell** - /the PLC Mercenary/, mostly breaks things, [[https://www.linkedin.com/in/sean-terrell-1837a312/][LinkedIN]]
-* Post
-:PROPERTIES:
-:EXPORT_HUGO_SECTION: post 
-:VISIBILITY: children 
-:END:
-** MQTT                                                              :@MQTT:@SCADA:@Industry_4.0:
-:PROPERTIES:
-:ID:       9e986908-1ded-427e-b34a-203d7cc2086e
-:CREATED:  [2020-06-29 Mon 13:27]
-:END:
-*** DONE MQTT: I heard its over-rated                               :SCADA:IIoT:Comms:network:
-CLOSED: [2020-06-29 Mon 07:32]
-:PROPERTIES:
-:EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
-:END:
-*Appaently the first rule of MQTT is we dont talk about MQTT* 
-
-Sure, its all over LinkedIN. Its the first thing anyone mentions in a conversation about IoT or the future of automation. But what the hell is it?
-
-*Message Queing Telemetry Transport* - the words MQTT is supposed to represent dont mean a whole helluvlot to me. Messages are pretty standard communications between .. fucking anything. And Queing sounds like there is either a time slot to transmit which means asyncronus data out and that blows, or that the state of the connection can hold message delivery in a que.. and that would be ok.
-
-*MQ Telemetry Transport* Ok so we know that Message Queing is happening and *Telemetry* ok thats sensor data. Now we are getting into an automation monkey's wheel house. Telemetry almost always refers to sensors and devices sending reporting data. Often times Telemetry is commutated values packed into a very tiny message and booted out in a single frame called fire and forget... just hoping that the receiver catches the message. And of course transport means this data can be shipped on multiple network types as the transport layer abstracts from the actual transmission layer of most protocols.
-
-
-
-
-  
-** Merc CV                                                           :@resume:@opportunity:
 ** DONE Resume                                                       :SCADA:COVID:Open2Opportunity:
 CLOSED: [2020-06-30 Tue 01:40]
    :PROPERTIES:
@@ -90,12 +62,15 @@ CLOSED: [2020-06-30 Tue 01:40]
    :EXPORT_FILE_NAME: Resume
    :END:
 
-**Sean Terrell**
+*Sean Terrell*
 238 West Tours Rd, Elm Mott, TX, 76640
-337.522.9291 [[mailto:terrellsm@gmail.com][terrellsm@gmail]]
+337.522.9291
+[[mailto:terrellsm@gmail.com][terrellsm@gmail]]
+[[mailto:plcmercenary@tuta.io][plcmercenary@tuta.io]]
+
 /*Work History and Experience*/
 
-*** **Cowan Consulting Services**, Midland TX
+*** *Cowan Consulting Services*, Midland TX
 -   Multiple Positions and Roles filled since March 2019 Including:
   -   *SCADA Practice Lead and System Developer*
   -   *IIoT solution developer, IoT Strategy consultant.*
@@ -122,7 +97,7 @@ CLOSED: [2020-06-30 Tue 01:40]
     -   Programmer for multiple construction projects including 100K BPD
         completely automated sites for major water midstream customer
 
-*** **The Integration Group of Americas {TIGA}**, Lafayette LA
+*** *The Integration Group of Americas {TIGA}*, Lafayette LA
 -   *Commissioning Engineer / Automation Technician* (Bakken), Sept 2017 -- May 2019
     /Duties, Tasks, and Accpmplishments/
     -   Supporting Statoil Bakken I&E Facilities and Midstream
@@ -147,7 +122,7 @@ CLOSED: [2020-06-30 Tue 01:40]
         sites in 13 weeks, with an average of 4 days down time and all
         control system items complete.
 
-*** **Sirius Technologies**, Eunice LA
+*** *Sirius Technologies*, Eunice LA
 -   *SCADA / Automation Central Gulf Lead Technician*, June 2016--Sept 2017
     /Duties, Tasks, and Accomplishments/
     -   Internally promoted to **lead automation technician** in the field.
@@ -156,7 +131,7 @@ CLOSED: [2020-06-30 Tue 01:40]
     -   Act as the SME for all automation and SCADA systems for the
         entire Central Gulf for Energy XXI as well as support I&E
         efforts in the Western Gulf.
-*** **Sirius Technologies**
+*** *Sirius Technologies*
 -   *SCADA / PLC Automation Technician*, August 2015 -- June 2016
     /Duties, Tasks, and Accomplishments/
     -   Energy XXI Grand Isle 16 Field SCADA Support Technician.
@@ -192,7 +167,7 @@ CLOSED: [2020-06-30 Tue 01:40]
         Tropos, Free Wave, Phoenix Contact Radio Wireless, and Ubiquiti
         Networks.
 
-*** **Omega Natchiq**, New Iberia LA,
+*** *Omega Natchiq*, New Iberia LA,
 -   *Automation and Electrical installation tech*, April 2015 -- Auguest 2015
     /Duties, Tasks, and Accomplishments/
 	-   Installed, tested, and commissioned cabling and junction boxes /
@@ -206,7 +181,7 @@ CLOSED: [2020-06-30 Tue 01:40]
     -   Installed all pneumatic tubing and instruments for various
         control panels, vessels, and equipment.
 
-*** **National Oilwell Varco** (NOV), New Iberia LA.
+*** *National Oilwell Varco* (NOV), New Iberia LA.
 -   *Controls and Drilling Robotics Automatation Tech, Field Service* July 2014- March 2015
     /Duties, Tasks, and Accomplishments/
     -   Conducted repair, installation, and commissioning of Automated
@@ -226,7 +201,7 @@ CLOSED: [2020-06-30 Tue 01:40]
     -   Chosen for an unsupported overseas assignment in Shekou China,
         conducting commissioning, based on technical expertise.
 
-*** **Trumpf GmBH**, Plymouth MI
+*** *Trumpf GmBH*, Plymouth MI
 -   *Field Service Engineer (Laser / laser Machines)* February 2013 -- July 2014
     /Duties, Tasks, and Accomplishments/
     -   Field Service and Integration Engineer for VectorMark / TruMark Marking Lasers
@@ -237,7 +212,7 @@ CLOSED: [2020-06-30 Tue 01:40]
         and provide technical assistance for integration and PLC
         programming.
 
-*** **Systems Engineering Associates Corp (SEACORP)**, Middletown RI
+*** *Systems Engineering Associates Corp (SEACORP)*, Middletown RI
 -   *Test Engineer* March 2006 -- Nov 2012
     /Duties, Tasks, and Accomplishments/
     -   Top Secret Clarence for this Position maintained for over 5
@@ -250,7 +225,7 @@ CLOSED: [2020-06-30 Tue 01:40]
 	-   Provided onsite installation and repairs for multiple Tomahawk
     	Weapons System Hardware and Software systems.
 
-**** **Education and Certifications**
+**** *Education and Certifications*
 - Current offshore training certificates, including IADC Rig Pass,
   BOSIET with HUET, Safe Gulf and Safe Land, Fire Fighting (Complete
   training at Well Control Houston), and Arc Flash safety for
@@ -265,7 +240,7 @@ CLOSED: [2020-06-30 Tue 01:40]
   Computer Systems Combined Maintenance School, Fire Control Systems
   Maintenance School. Completed Naval Leadership for E-5.
 
-**** **Personal Projects and Open Source DevOps**
+**** *Personal Projects and Open Source DevOps*
 - 2010-2011 Contributed to the Linux Mint Debian Edition project,
   tested and performed all installation scripting and packaging, and
   produced the initial .iso files for distribution
@@ -280,7 +255,34 @@ CLOSED: [2020-06-30 Tue 01:40]
 
 
 
-** TODO PLC Programming                                             :@PLC:todo:
+* Post
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post 
+:VISIBILITY: children 
+:END:
+** MQTT                                                              :@MQTT:@SCADA:@Industry_4.0:
+:PROPERTIES:
+:ID:       9e986908-1ded-427e-b34a-203d7cc2086e
+:CREATED:  [2020-06-29 Mon 13:27]
+:END:
+*** DONE MQTT: I heard its over-rated                               :SCADA:IIoT:Comms:network:
+CLOSED: [2020-06-29 Mon 07:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
+:END:
+*Appaently the first rule of MQTT is we dont talk about MQTT* 
+
+Sure, its all over LinkedIN. Its the first thing anyone mentions in a conversation about IoT or the future of automation. But what the hell is it?
+
+*Message Queing Telemetry Transport* - the words MQTT is supposed to represent dont mean a whole helluvlot to me. Messages are pretty standard communications between .. fucking anything. And Queing sounds like there is either a time slot to transmit which means asyncronus data out and that blows, or that the state of the connection can hold message delivery in a que.. and that would be ok.
+
+*MQ Telemetry Transport* Ok so we know that Message Queing is happening and *Telemetry* ok thats sensor data. Now we are getting into an automation monkey's wheel house. Telemetry almost always refers to sensors and devices sending reporting data. Often times Telemetry is commutated values packed into a very tiny message and booted out in a single frame called fire and forget... just hoping that the receiver catches the message. And of course transport means this data can be shipped on multiple network types as the transport layer abstracts from the actual transmission layer of most protocols.
+
+
+
+
+  
+** TODO PLC Programming                                              :@PLC:todo:
 
 * Blog Ideas                                                          :Noexport:
 :PROPERTIES:
