@@ -11,6 +11,9 @@ nodate = true
 nopaging = true
 noread = true
 sidemenu = true
+[menu.main]
+  weight = 2003
+  identifier = "resume" 
 +++
 
 
