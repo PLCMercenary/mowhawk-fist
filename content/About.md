@@ -29,7 +29,7 @@ and guest articles or video series are highly welcomed
 
 Please Email
 
-`Merc@automationmerc.com`
+
 
 Most of the inspiration these articles & videos come from the automation
 community on linkedin and will also be linked there as well.

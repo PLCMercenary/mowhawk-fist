@@ -281,9 +281,6 @@ Sure, its all over LinkedIN. Its the first thing anyone mentions in a conversati
 
 *MQ Telemetry Transport* Ok so we know that Message Queing is happening and *Telemetry* ok thats sensor data. Now we are getting into an automation monkey's wheel house. Telemetry almost always refers to sensors and devices sending reporting data. Often times Telemetry is commutated values packed into a very tiny message and booted out in a single frame called fire and forget... just hoping that the receiver catches the message. And of course transport means this data can be shipped on multiple network types as the transport layer abstracts from the actual transmission layer of most protocols.
 
-
-
-
   
 ** TODO PLC Programming                                              :@PLC:todo:
 
