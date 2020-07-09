@@ -4,7 +4,7 @@ author = ["Sean Terrell"]
 date = 2020-07-09T04:17:00-05:00
 lastmod = 2020-07-09T04:18:39-05:00
 tags = ["SCADA", "IIoT", "Comms", "network"]
-categories = ["MQTT", "SCADA"]
+topics = ["MQTT", "SCADA"]
 draft = false
 +++
 
