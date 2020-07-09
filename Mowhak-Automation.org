@@ -267,8 +267,7 @@ CLOSED: [2020-06-30 Tue 03:09]
 :ID:       9e986908-1ded-427e-b34a-203d7cc2086e
 :CREATED:  [2020-06-29 Mon 13:27]
 :END:
-*** DONE MQTT: I heard its over-rated                               :SCADA:IIoT:Comms:network:@MQTT:@SCADA:
-CLOSED: [2020-07-09 Thu 03:19]
+*** TODO MQTT: I heard its over-rated                               :SCADA:IIoT:Comms:network:@MQTT:@SCADA:
 :PROPERTIES:
 :EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
 :END:
