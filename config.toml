@@ -46,8 +46,8 @@ pygmentsCodeFences = true
     name = "Topics"
     pre = "<i class='fa fa-list-alt fa-fw'></i>"
     weight = 4
-    identifier = "topic"
-    url = "/topic/"
+    identifier = "Topic"
+    url = "/topics/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
