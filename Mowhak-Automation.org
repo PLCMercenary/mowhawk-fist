@@ -42,7 +42,7 @@ CLOSED: [2020-06-30 Tue 01:10]
    :CUSTOM_ID: h:beb0969b-5168-490b-95ef-af55818703e5
    :CREATED:  [2019-07-28 Sun 20:35]
    :export_hugo_pre: "<i class='fa fa-phone fa-fw'></i>"
-   :EXPORT_FILE_NAME: Contacts
+   :EXPORT_FILE_NAME: Contact
    :END:
 
 The Best way to contact someone is to email the 
