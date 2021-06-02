@@ -2,7 +2,7 @@
 title = "Contact"
 author = ["Sean Terrell"]
 date = 2020-06-30T01:10:00-05:00
-lastmod = 2020-07-10T15:36:22-05:00
+lastmod = 2021-06-02T05:13:11-05:00
 draft = false
 weight = 2002
 noauthor = true
@@ -13,7 +13,6 @@ noread = true
 sidemenu = true
 [menu.main]
   weight = 2002
-  pre = "<i class='fa fa-phone fa-fw'></i>"
   identifier = "contact"
 +++
 
