@@ -58,10 +58,10 @@ The Mercenaries are also easily reached on LinkedIn
                 
 **Scooter Terrell** - /the PLC Mercenary/, mostly breaks things, [[https://www.linkedin.com/in/sean-terrell-1837a312/][LinkedIN]]
 ** DONE Mercs Resume
-CLOSED: [2020-06-30 Tue 03:09]
+CLOSED: [2021-06-02 Wed 03:56]
 :PROPERTIES:
 :ID:       ddf455ad-7b78-42ce-8f72-e3833df979e5
-:CREATED:  [2020-06-30 Tue 03:07]
+:CREATED:  [2021-06-02 Wed 03:56]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true :sidemenu true
 :EXPORT_HUGO_MENU: :menu main
 :export_hugo_section:

@@ -1,8 +1,8 @@
 +++
 title = "Mercs Resume"
 author = ["Sean Terrell"]
-date = 2020-06-30T03:09:00-05:00
-lastmod = 2020-06-30T10:44:32-05:00
+date = 2021-06-02T03:56:00-05:00
+lastmod = 2021-06-02T04:05:02-05:00
 draft = false
 weight = 2003
 noauthor = true
@@ -13,7 +13,6 @@ noread = true
 sidemenu = true
 [menu.main]
   weight = 2003
-  pre = "<i class='fa fa-list fa-fw'></i>"
   identifier = "mercs-resume"
 +++
 
@@ -25,9 +24,24 @@ sidemenu = true
 _**Work History and Experience**_
 
 
+## **Sahoma Controlware, Edmond Ok** {#sahoma-controlware-edmond-ok}
+
+-   **Co-Owner, Senior Project Engineer, Automation Consultant Aug 2020**
+-   Automation System Developer and Real Time system deployment engineer
+-   Designed and Implemented, Custom Node.js web SCADA, SahomaSCADA a, multi customer and multi-tenant web monitoring platform for critical systems.
+-   Built all container services and administrate all Kubernetes clusters and controllers implementing our system on a private cloud.
+-   Coordinated Sahoma Partnership with Codesys USA.
+-   Specialist in containerized, and Linux Run-Time executions for real time PLC controls.
+-   IIOT solution developer for Sahoma
+-   Developing Java implementation using windows-based IPC controllers executing TwinCat Run Time
+-   Bringing next gen solutions to the device ring. Developing a hardware based consensus model to verify sensor firmware integrity and using a sensor level value ledger with consensus for 0 trust sensor output verification
+-   OOIP programming guru. Implementation of Object-Oriented Industrial Programming using IEC 61131-3 IDE’s.
+-   Automation system programmer for multiple projects including Wago, PLCNext, Beckhoff, Allen Bradley, and Omron.
+
+
 ## **Cowan Consulting Services**, Midland TX {#cowan-consulting-services-midland-tx}
 
--   Multiple Positions and Roles filled since March 2019 Including:
+-   Multiple Positions and Roles filled since March 2019 - Aug 2020:
     -   **SCADA Practice Lead and System Developer**
     -   **IIoT solution developer, IoT Strategy consultant.**
     -   **Rockwell PLC Programing Lead, and OOIP Program developer.** <br />
