@@ -2,7 +2,7 @@
 title = "Mercs Resume"
 author = ["Sean Terrell"]
 date = 2021-06-02T03:56:00-05:00
-lastmod = 2021-06-02T05:29:14-05:00
+lastmod = 2021-06-02T05:52:57-05:00
 draft = false
 weight = 2003
 noauthor = true
@@ -229,14 +229,11 @@ _**Work History and Experience**_
 
 ### **Personal Projects and Open Source DevOps** {#personal-projects-and-open-source-devops}
 
--   2010-2011 Contributed to the Linux Mint Debian Edition project,
-    tested and performed all installation scripting and packaging, and
-    produced the initial .iso files for distribution
--   2018-2019 started the NODAK Automation Synergy Group -- an open form
-    that met weekly in Williston to do Automation Training, PLC
-    Programming, offer project assistance, and have IIoT and automation
-    related talks and discussions
--   2020 - Supporting the Lora Alliance and things network registering
-    several open Lora Gateways in the Permian
--   Automation Mercs Podcast- Delivering High Quality Discussions and
-    Demos of Automation Awesomeness.
+-   2009-2010 performed analysis and wrote engineering white paper and which led to the rebase of the AN/BYG-1 Combat Control System from HP-UX 11.11. The primary processing for the CCS was migrated to RHEL and the TTWS from 11.09 to Debian
+-   2010 Heavily involved in community forums for Linux Mint, supported pre-alpha testing and hardware operability checks for LMDE, a project to rebase Mint onto Debian.
+-   2018-2019 started the NODAK Automation Synergy Group – an open forum that met weekly in Williston to do Automation Training, PLC Programming, offer project assistance, and have IIoT and automation related talks and discussions
+-   2020 - Supporting the Lora Alliance and things network registering several open Lora Gateways in the Permian.
+-   2020 – Contributor to Unified Namespace project
+-   2018-Present - Participated in Numerous interviews and podcast discussions focused on industrial automation
+-   2021- Panelist / Presenter / Moderator for the Open Automation clubhouse.
+-   WIP-Automation Mercs Podcast- Delivering High Quality Discussions and Demos of Automation Awesomeness.

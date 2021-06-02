@@ -2,7 +2,7 @@
 title = "About Us"
 author = ["Sean Terrell"]
 date = 2019-08-01T04:32:00-05:00
-lastmod = 2021-06-02T05:29:14-05:00
+lastmod = 2021-06-02T05:52:57-05:00
 draft = false
 weight = 2001
 noauthor = true
