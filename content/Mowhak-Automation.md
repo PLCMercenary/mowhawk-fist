@@ -1,0 +1,372 @@
++++
+author = ["Sean Terrell"]
+lastmod = 2021-06-02T04:00:11-05:00
+draft = false
++++
+
+[2020 07 10 1855 Django Site Descriptions]({{< relref "2020-07-10-1855-django-site-descriptions" >}})
+
+
+## Contents {#contents}
+
+    EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true :sidemenu true
+
+    EXPORT_HUGO_MENU: :menu main
+
+    EXPORT_HUGO_SECTION:
+
+    EXPORT_HUGO_WEIGHT: auto
+
+    VISIBILITY: children
+
+
+### <span class="org-todo done DONE">DONE</span> About Us {#about-us}
+
+    EXPORT_FILE_NAME: About Us
+
+Automation Mercs is an information sharing site started by **Sean "Scooter"
+Terrell** an automation geek that is obsessed with PLC Controls and Automating
+everything possible
+
+**Justin Dean** is a lifelong programming expert with experience in all types of
+SCADA systems, large and small. His experience with all manner of automation
+equipment along with a specific expertise in .Net, and Java frameworks are
+somewhat unique to this industry at the time of this writing.
+
+it is the goal of this simple blog and podcast to bring relevant how-to
+information and, thought or discussion promoting topics - Community posts
+and guest articles or video series are highly welcomed
+
+Please Email
+
+`PLCmercenary@tuta.io`
+
+Most of the inspiration these articles & videos come from the automation
+community on linkedin and will also be linked there as well.
+
+
+### <span class="org-todo done DONE">DONE</span> Contact {#h:beb0969b-5168-490b-95ef-af55818703e5}
+
+    CUSTOM_ID: h:beb0969b-5168-490b-95ef-af55818703e5
+
+    CREATED: [2019-07-28 Sun 20:35]
+
+    export_hugo_pre: "<i class='fa fa-phone fa-fw'></i>"
+
+    EXPORT_FILE_NAME: Contact
+
+The Best way to contact someone is to email the
+
+`PLCmercenary@tuta.io`
+
+The Mercenaries are also easily reached on LinkedIn
+
+****Justin Dean**** - SCADA Solution Magician [LinkedIN](https://www.linkedin.com/in/justin-dean-95532b18/)
+
+****Scooter Terrell**** - _the PLC Mercenary_, mostly breaks things, [LinkedIN](https://www.linkedin.com/in/sean-terrell-1837a312/)
+
+
+### <span class="org-todo done DONE">DONE</span> Mercs Resume {#mercs-resume}
+
+    ID: ddf455ad-7b78-42ce-8f72-e3833df979e5
+
+    CREATED: [2020-06-30 Tue 03:07]
+
+    EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true :sidemenu true
+
+    EXPORT_HUGO_MENU: :menu main
+
+    export_hugo_section:
+
+    export_hugo_weight: auto
+
+    export_hugo_pre: "<i class='fa fa-list fa-fw'></i>"
+
+    EXPORT_FILE_NAME: MERCS-CV
+
+**Sean Terrell**
+238 West Tours Rd, Elm Mott, TX, 76640
+337.522.9291
+[terrellsm@gmail](mailto:terrellsm@gmail.com)
+
+_**Work History and Experience**_
+
+
+#### **Sahoma Controlware, Edmond Ok** {#sahoma-controlware-edmond-ok}
+
+-   **Co-Owner, Senior Project Engineer, Automation Consultant Aug 2020**
+-   Automation System Developer and Real Time system deployment engineer
+-   Designed and Implemented, Custom Node.js web SCADA, SahomaSCADA a, multi customer and multi-tenant web monitoring platform for critical systems.
+-   Built all container services and administrate all Kubernetes clusters and controllers implementing our system on a private cloud.
+-   Coordinated Sahoma Partnership with Codesys USA.
+-   Specialist in containerized, and Linux Run-Time executions for real time PLC controls.
+-   IIOT solution developer for Sahoma
+-   Developing Java implementation using windows-based IPC controllers executing TwinCat Run Time
+-   Bringing next gen solutions to the device ring. Developing a hardware based consensus model to verify sensor firmware integrity and using a sensor level value ledger with consensus for 0 trust sensor output verification
+-   OOIP programming guru. Implementation of Object-Oriented Industrial Programming using IEC 61131-3 IDE’s.
+-   Automation system programmer for multiple projects including Wago, PLCNext, Beckhoff, Allen Bradley, and Omron.
+
+
+#### **Cowan Consulting Services**, Midland TX {#cowan-consulting-services-midland-tx}
+
+-   Multiple Positions and Roles filled since March 2019 - Aug 2020:
+    -   **SCADA Practice Lead and System Developer**
+    -   **IIoT solution developer, IoT Strategy consultant.**
+    -   **Rockwell PLC Programing Lead, and OOIP Program developer.** <br />
+        _Duties, Tasks, and Accomplishments_
+        -   Primary designer and POC, for NodeJS and Node-Red based SCADA
+            system for very large customer. Acted as the designer and
+            assistant developer for a custom SCADA implementation written in
+            Node and Vue
+        -   Supported Web SCADA rebase from NodeJS to Ignition 8.0 with
+            Perspective on cloud host for monthly paying customers,
+        -   AWS cloud devops and deployment guru. Vast Linux and Unix /
+            CentOS and Sun system admin experience. Comfortable with
+            provisioning and securing assets as well as delivering data from
+            RDS and Kinesis Streams.
+        -   AWS IoT solution crafter, very experienced with OPC-UA, MQTT,
+            SMS alarms and email management directly using Amazon MQ, Amazon
+        -   Communications Expert and data access specialist. Recently
+            built Unified Namespace and moved all Ignition incoming data to
+            MQTT.
+        -   Heavy Codesys user and Programmer. Highly skilled in Object
+            Oriented Industrial Programming, easily able to adapt to codesys
+            based products such as Bedrock, Wago, Eaton, ABB PLC's and more.
+        -   Programmer for multiple construction projects including 100K BPD
+            completely automated sites for major water midstream customer
+
+
+#### **The Integration Group of Americas {TIGA}**, Lafayette LA {#the-integration-group-of-americas-tiga-lafayette-la}
+
+-   **Commissioning Engineer / Automation Technician** (Bakken), Sept 2017 -- May 2019 <br />
+    _Duties, Tasks, and Accpmplishments_
+    -   Supporting Statoil Bakken I&E Facilities and Midstream
+        Facilities
+    -   Supported multiple commissioning and facilities tasks as I&E
+        team automation programmer.
+    -   Wrote and supported multiple changes to C&E charts, P&ID's, and
+        Control Narratives
+    -   Coordinated and oversaw the application of field MOC's,
+        directing the Instrumentation and Electricians to accomplish the
+        necessary hardware changes while deploying and testing all
+        automation programming changes.
+    -   Lead Programmer and Developer for Midstream River Crossing Block
+        Valve Sites. Developed the PLC Program and HMI, supported all
+        Commissioning efforts
+    -   June 2018 -- May 2019, Requested specifically by customer as
+        full time Midstream Capital Project Programming and
+        Commissioning Support
+    -   Recently completed upgrade of control system at all ND and MT
+        saltwater disposal sites. Upgraded from Micrologix 1400 and
+        Siemens S71200 system to single Control Logix L62. Rolled out 10
+        sites in 13 weeks, with an average of 4 days down time and all
+        control system items complete.
+
+
+#### **Sirius Technologies**, Eunice LA {#sirius-technologies-eunice-la}
+
+-   **SCADA / Automation Central Gulf Lead Technician**, June 2016--Sept 2017
+    _Duties, Tasks, and Accomplishments_
+    -   Internally promoted to ****lead automation technician**** in the field.
+    -   Support, assist, and train junior technicians and measurement
+        personnel.
+    -   Act as the SME for all automation and SCADA systems for the
+        entire Central Gulf for Energy XXI as well as support I&E
+        efforts in the Western Gulf.
+
+
+#### **Sirius Technologies** {#sirius-technologies}
+
+-   **SCADA / PLC Automation Technician**, August 2015 -- June 2016
+    _Duties, Tasks, and Accomplishments_
+    -   Energy XXI Grand Isle 16 Field SCADA Support Technician.
+    -   Support all field platform including main GI22L and additional
+        unmanned platforms. Additionally support Energy XXI assets in
+        the West Delta and South Timbalier, Vermillion, and South Marsh
+        Island blocks
+    -   Installed and tested pressure and level sensors on multitude of
+        Oil and Gas processing equipment and vessels. Familiar with
+        autopilots and burner safety systems for fired vessels,
+        automated control valves, radar, float, and DP tank level
+        indications.
+    -   Rebuilt and maintained a multitude of electrical and pneumatic
+        control panels for well and pipeline operations, compressor
+        controls, gas lift controls and safety system shut ins using
+        Electronic over pneumatic and direct pneumatic automation.
+    -   Installed, tested, calibrated, and maintained a multitude of
+        flow measurement systems including ABB TotalFlow, ROC 800 and
+        107, Fox Thermal Measurements and others.
+    -   Built, Edited, supported and repaired SCADA system HMI displays
+        using Wonderware, Ignition, and Factory Talk. Integrated new
+        sensors into the existing SCADA system for monitoring and
+        control.
+    -   Installed and configured OPC server software and systems for
+        historical data collection and SCADA monitoring and control.
+    -   Programmed and maintained logic for a multitude of PLC and
+        Controller types, including SCADAPack, Allen Bradley SLC500 and
+        CompactLogix, Phoenix Contact, Direct Logic, ABB Total Flow,
+        Siemens S5 and S7, TI Simatics, GE Fanuc, along with many
+        Rosemount, Fischer, and ABB sensors.
+    -   Installed tested and maintained many remote transmitters and
+        mesh network radio components and antennas, including ABB
+        Tropos, Free Wave, Phoenix Contact Radio Wireless, and Ubiquiti
+        Networks.
+
+
+#### **Omega Natchiq**, New Iberia LA, {#omega-natchiq-new-iberia-la}
+
+-   **Automation and Electrical installation tech**, April 2015 -- Auguest 2015
+    _Duties, Tasks, and Accomplishments_
+    -   Installed, tested, and commissioned cabling and junction boxes /
+        terminal boards for new construction oil and gas production vessels,
+        equipment, platforms and sites.Designed electrical and pneumatic panels
+        for SCADA and Logic controls.
+    -   Installed all cabling and terminated all wiring for variety of
+        electronic and pneumatic controls and sensors including PLC, EFM,
+        RTD, and other SAFE PSHL, LSHL, sensors per construction drawings
+        and assembly diagrams.
+    -   Installed all pneumatic tubing and instruments for various
+        control panels, vessels, and equipment.
+
+
+#### **National Oilwell Varco** (NOV), New Iberia LA. {#national-oilwell-varco--nov--new-iberia-la-dot}
+
+-   **Controls and Drilling Robotics Automatation Tech, Field Service** July 2014- March 2015
+    _Duties, Tasks, and Accomplishments_
+    -   Conducted repair, installation, and commissioning of Automated
+        Drilling Control Systems for Amphion® and Cyberbase® land
+        and offshore jack up drilling rigs.
+    -   Performed all testing of entire controls systems verifying
+        proper operation and alarms and lockouts.
+    -   Oversaw, Operated, and Completed Installation of all Rig
+        Cantileiver and Drilling Floor Equipment ensuring safe movement
+        and operation of all tools. Adjusted PIDs' for proper tool
+        alignment and safe hydraulic flow rates.
+    -   Installed Siemens S7 Simatic PLC systems, Allen Bradley Control
+        Logix and S5/05 systems. Troubleshot and repaired or replaced /
+        adjusted and calibrated a multitude of PLC and Automation
+        components including PLC's, VFD's, and all manner of field
+        sensors.
+    -   Chosen for an unsupported overseas assignment in Shekou China,
+        conducting commissioning, based on technical expertise.
+
+
+#### **Trumpf GmBH**, Plymouth MI {#trumpf-gmbh-plymouth-mi}
+
+-   **Field Service Engineer (Laser / laser Machines)** February 2013 -- July 2014
+    _Duties, Tasks, and Accomplishments_
+    -   Field Service and Integration Engineer for VectorMark / TruMark Marking Lasers
+    -   Conduct in service machine engineering, repairs, maintenance,
+        troubleshooting and repair at customers sites for lasers and
+        laser machines
+    -   Commission and integrate lasers into new manufacturing processes
+        and provide technical assistance for integration and PLC
+        programming.
+
+
+#### **Systems Engineering Associates Corp (SEACORP)**, Middletown RI {#systems-engineering-associates-corp--seacorp--middletown-ri}
+
+-   **Test Engineer** March 2006 -- Nov 2012
+    _Duties, Tasks, and Accomplishments_
+    -   Top Secret Clarence for this Position maintained for over 5
+        years (SSBI completed Oct of 2012)
+    -   Wrote and Conducted test programs on tactical ship equipment,
+        including shipboard computer systems and missile interface systems and controls
+    -   Conducted onboard testing, operational verification, and repair of
+        all onboard Tomahawk systems and communications for pre deploying
+        submarines.
+    -   Provided onsite installation and repairs for multiple Tomahawk
+        Weapons System Hardware and Software systems.
+
+
+##### **Education and Certifications** {#education-and-certifications}
+
+-   Current offshore training certificates, including IADC Rig Pass,
+    BOSIET with HUET, Safe Gulf and Safe Land, Fire Fighting (Complete
+    training at Well Control Houston), and Arc Flash safety for
+    electricians, and More.
+-   Completed NOV Tech College for Field Service Engineers. 12/10/2014
+-   Siemens PLC Applications I and II
+-   Allen Bradley PLC Applications for RSLogix 500
+-   Completed TRUPMF Field Service Engineer TRUMark Level I and Level II
+    in Grusch, Switzerland.
+-   Competed U.S. Navy Submarine Basic AC/DC and Advanced Electronics,
+    Fire Control Technician operation, U.S Navy Tactical Advanced
+    Computer Systems Combined Maintenance School, Fire Control Systems
+    Maintenance School. Completed Naval Leadership for E-5.
+
+
+##### **Personal Projects and Open Source DevOps** {#personal-projects-and-open-source-devops}
+
+-   2010-2011 Contributed to the Linux Mint Debian Edition project,
+    tested and performed all installation scripting and packaging, and
+    produced the initial .iso files for distribution
+-   2018-2019 started the NODAK Automation Synergy Group -- an open form
+    that met weekly in Williston to do Automation Training, PLC
+    Programming, offer project assistance, and have IIoT and automation
+    related talks and discussions
+-   2020 - Supporting the Lora Alliance and things network registering
+    several open Lora Gateways in the Permian
+-   Automation Mercs Podcast- Delivering High Quality Discussions and
+    Demos of Automation Awesomeness.
+
+
+## Post {#post}
+
+    EXPORT_HUGO_SECTION: post
+
+    VISIBILITY: children
+
+
+### MQTT                                                              :@MQTT:@SCADA:@Industry\_4.0: {#mqtt-mqtt-scada-industry-4-dot-0}
+
+    ID: 9e986908-1ded-427e-b34a-203d7cc2086e
+
+    CREATED: [2020-06-29 Mon 13:27]
+
+
+#### <span class="org-todo done DONE">DONE</span> MQTT: I heard its over-rated {#mqtt-i-heard-its-over-rated}
+
+    EXPORT_FILE_NAME: mqtt-i-heard-its-over-rated
+
+**Appaently the first rule of MQTT is we dont talk about MQTT**
+
+Sure, its all over LinkedIN. Its the first thing anyone mentions in a conversation about IoT or the future of automation. But what the hell is it?
+
+**Message Queing Telemetry Transport** - the words MQTT is supposed to represent dont mean a whole helluvlot to me. Messages are pretty standard communications between .. fucking anything. And Queing sounds like there is either a time slot to transmit which means synchronous data out and that blows, or that the state of the connection can hold message delivery in a que.. and that would be ok.
+
+**MQ Telemetry Transport** Ok so we know that Message Queing is happening and **Telemetry** ok that is sensor data. Now we are getting into an automation monkey's wheel house. Telemetry almost always refers to sensors and devices sending reporting data. Often times Telemetry is commutated values packed into a very tiny message and booted out in a single frame called fire and forget... just hoping that the receiver catches the message. And of course transport means this data can be shipped on multiple network types as the transport layer abstracts from the actual transmission layer of most protocols.
+
+So what I have learned is that MQTT is the best of all this jargon.
+
+A little history: MQTT protocol was developed by Arlan Nipper (Cirrus Link) and Andy Sanford-Clark (IBM) while trying to get midstream data from extremely remote exxon-mobile sites over ViaSat connections. So they needed a way to pack data into a constrained message that cost mega $$$ every transmission. The MQ moniker was added with the IBM MQseries even though the MQTT Publish and Subscribe model dont actually use a message que
+
+Pub Sub - why this is the key. MQTT (depending on version and protocol specifics) defines several types of node. Basically arranged into Brokers and Clients. Clients are everything that isnt a Broker and Brokers are the hubs that clients connect too. Clients to these brokers can both publish and subscribe. or just publish or just subscribe. but the basic framework is pretty simple.
+
+The broker is hub as we said above and its role is pretty simple 1)know the status of all connected clients, and 2)broker out published messages incoming from clients to subscribed clients looking for those messages. It does this based on the messages that each client hands the broker upon connection
+
+The beauty of MQTT is the simplicity of how it works. Each client connecting to the broker states what its there for, and what actions to take if it disconnects. The state of each connection is then monitored and as long as its alive the broker simply assumes the last message sent is the current state.
+
+This is a pretty basic overview of MQTT and hopefully gives some insight into what the hell it is. in the next article in this series Ill break down the message types and provide a simple tutorial to start publishing and subscribing with free tools.
+
+
+#### <span class="org-todo todo TODO">TODO</span> MQTT: Messages -moving and shaking some topics {#mqtt-messages-moving-and-shaking-some-topics}
+
+    ID: db3f38e0-f81e-42cc-8eb5-1d4a1281c510
+
+    CREATED: [2020-07-09 Thu 03:53]
+
+
+### <span class="org-todo todo TODO">TODO</span> PLC Programming {#plc-programming}
+
+
+## Blog Ideas {#blog-ideas}
+
+    ID: C41B5F9F-B8EB-460B-87FF-6B647CB72752
+
+    VISIBILITY: children
+
+
+### Interview with mama - IVF and Barbados {#interview-with-mama-ivf-and-barbados}
+
+-
