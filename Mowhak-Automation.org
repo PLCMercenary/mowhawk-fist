@@ -4,8 +4,6 @@
 #+HUGO_AUTO_SET_LASTMOD: t
 #+seq_todo: TODO DRAFT DONE
 
-[[file:../../../../Dropbox/orgfiles/Notes/2020-07-10-1855-django-site-descriptions.org][2020 07 10 1855 Django Site Descriptions]]
-
 * Contents
   :PROPERTIES:
   :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true :sidemenu true
@@ -321,12 +319,14 @@ This is a pretty basic overview of MQTT and hopefully gives some insight into wh
 :ID:       C41B5F9F-B8EB-460B-87FF-6B647CB72752
 :VISIBILITY: children
 :END:
-** Interview with mama - IVF and Barbados
+** Interview with mama - IVF and Barbados                            :Noexport:
    - 
 
 
 
-* Footnotes 
+* Footnotes
+* [[file:../../../../Dropbox/orgfiles/Notes/2020-07-10-1855-django-site-descriptions.org][2020 07 10 1855 Django Site Description]]                             :Noexport:
+
 * COMMENT Local Variables                                           # Local Variables:
 # eval: (org-hugo-auto-export-mode) 
 # eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
