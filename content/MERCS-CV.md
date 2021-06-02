@@ -2,7 +2,7 @@
 title = "Mercs Resume"
 author = ["Sean Terrell"]
 date = 2021-06-02T03:56:00-05:00
-lastmod = 2021-06-02T05:13:11-05:00
+lastmod = 2021-06-02T05:18:13-05:00
 draft = false
 weight = 2003
 noauthor = true

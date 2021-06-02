@@ -4,8 +4,6 @@ lastmod = 2021-06-02T04:00:11-05:00
 draft = false
 +++
 
-[2020 07 10 1855 Django Site Descriptions]({{< relref "2020-07-10-1855-django-site-descriptions" >}})
-
 
 ## Contents {#contents}
 
