@@ -2,7 +2,7 @@
 title = "Mercs Resume"
 author = ["Sean Terrell"]
 date = 2021-06-02T03:56:00-05:00
-lastmod = 2021-06-02T05:18:13-05:00
+lastmod = 2021-06-02T05:29:14-05:00
 draft = false
 weight = 2003
 noauthor = true
@@ -27,45 +27,44 @@ _**Work History and Experience**_
 ## **Sahoma Controlware, Edmond Ok** {#sahoma-controlware-edmond-ok}
 
 -   **Co-Owner, Senior Project Engineer, Automation Consultant Aug 2020**
--   Automation System Developer and Real Time system deployment engineer
--   Designed and Implemented, Custom Node.js web SCADA, SahomaSCADA a, multi customer and multi-tenant web monitoring platform for critical systems.
--   Built all container services and administrate all Kubernetes clusters and controllers implementing our system on a private cloud.
--   Coordinated Sahoma Partnership with Codesys USA.
--   Specialist in containerized, and Linux Run-Time executions for real time PLC controls.
--   IIOT solution developer for Sahoma
--   Developing Java implementation using windows-based IPC controllers executing TwinCat Run Time
--   Bringing next gen solutions to the device ring. Developing a hardware based consensus model to verify sensor firmware integrity and using a sensor level value ledger with consensus for 0 trust sensor output verification
--   OOIP programming guru. Implementation of Object-Oriented Industrial Programming using IEC 61131-3 IDE’s.
--   Automation system programmer for multiple projects including Wago, PLCNext, Beckhoff, Allen Bradley, and Omron.
+    -   Automation System Developer and Real Time system deployment engineer
+    -   Designed and Implemented, Custom Node.js web SCADA, SahomaSCADA a, multi customer and multi-tenant web monitoring platform for critical systems.
+    -   Built all container services and administrate all Kubernetes clusters and controllers implementing our system on a private cloud.
+    -   Coordinated Sahoma Partnership with Codesys USA.
+    -   Specialist in containerized, and Linux Run-Time executions for real time PLC controls.
+    -   IIOT solution developer for Sahoma
+    -   Developing Java implementation using windows-based IPC controllers executing TwinCat Run Time
+    -   Bringing next gen solutions to the device ring. Developing a hardware based consensus model to verify sensor firmware integrity and using a sensor level value ledger with consensus for 0 trust sensor output verification
+    -   OOIP programming guru. Implementation of Object-Oriented Industrial Programming using IEC 61131-3 IDE’s.
+    -   Automation system programmer for multiple projects including Wago, PLCNext, Beckhoff, Allen Bradley, and Omron.
 
 
 ## **Cowan Consulting Services**, Midland TX {#cowan-consulting-services-midland-tx}
 
--   Multiple Positions and Roles filled since March 2019 - Aug 2020:
-    -   **SCADA Practice Lead and System Developer**
-    -   **IIoT solution developer, IoT Strategy consultant.**
-    -   **Rockwell PLC Programing Lead, and OOIP Program developer.** <br />
-        _Duties, Tasks, and Accomplishments_
-        -   Primary designer and POC, for NodeJS and Node-Red based SCADA
-            system for very large customer. Acted as the designer and
-            assistant developer for a custom SCADA implementation written in
-            Node and Vue
-        -   Supported Web SCADA rebase from NodeJS to Ignition 8.0 with
-            Perspective on cloud host for monthly paying customers,
-        -   AWS cloud devops and deployment guru. Vast Linux and Unix /
-            CentOS and Sun system admin experience. Comfortable with
-            provisioning and securing assets as well as delivering data from
-            RDS and Kinesis Streams.
-        -   AWS IoT solution crafter, very experienced with OPC-UA, MQTT,
-            SMS alarms and email management directly using Amazon MQ, Amazon
-        -   Communications Expert and data access specialist. Recently
-            built Unified Namespace and moved all Ignition incoming data to
-            MQTT.
-        -   Heavy Codesys user and Programmer. Highly skilled in Object
-            Oriented Industrial Programming, easily able to adapt to codesys
-            based products such as Bedrock, Wago, Eaton, ABB PLC's and more.
-        -   Programmer for multiple construction projects including 100K BPD
-            completely automated sites for major water midstream customer
+-   Multiple Positions and Roles filled from March 2019 - Aug 2020:
+-   **SCADA Practice Lead and System Developer**
+-   **Rockwell PLC Programing Lead, and OOIP Program developer.** <br />
+    _Duties, Tasks, and Accomplishments_
+    -   Primary designer and POC, for NodeJS and Node-Red based SCADA
+        system for very large customer. Acted as the designer and
+        assistant developer for a custom SCADA implementation written in
+        Node and Vue
+    -   Supported Web SCADA rebase from NodeJS to Ignition 8.0 with
+        Perspective on cloud host for monthly paying customers,
+    -   AWS cloud devops and deployment guru. Vast Linux and Unix /
+        CentOS and Sun system admin experience. Comfortable with
+        provisioning and securing assets as well as delivering data from
+        RDS and Kinesis Streams.
+    -   AWS IoT solution crafter, very experienced with OPC-UA, MQTT,
+        SMS alarms and email management directly using Amazon MQ, Amazon
+    -   Communications Expert and data access specialist. Recently
+        built Unified Namespace and moved all Ignition incoming data to
+        MQTT.
+    -   Heavy Codesys user and Programmer. Highly skilled in Object
+        Oriented Industrial Programming, easily able to adapt to codesys
+        based products such as Bedrock, Wago, Eaton, ABB PLC's and more.
+    -   Programmer for multiple construction projects including 100K BPD
+        completely automated sites for major water midstream customer
 
 
 ## **The Integration Group of Americas {TIGA}**, Lafayette LA {#the-integration-group-of-americas-tiga-lafayette-la}
